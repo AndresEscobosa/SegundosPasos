@@ -35,6 +35,7 @@ class MarcoCentrado extends JFrame{
 		setIconImage(miIcono);
 
 		setTitle("MARCO CENTRADO y REMANGADO");
+		//comentrio remangado
 		//Cambio en la nube para el PULL
 	}
 }
