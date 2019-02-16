@@ -35,5 +35,6 @@ class MarcoCentrado extends JFrame{
 		setIconImage(miIcono);
 
 		setTitle("MARCO CENTRADO");
+		//Cambio en la nube para el PULL
 	}
 }
