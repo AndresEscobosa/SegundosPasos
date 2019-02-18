@@ -34,8 +34,6 @@ class MarcoCentrado extends JFrame{
 		
 		setIconImage(miIcono);
 
-		setTitle("MARCO CENTRADO y REMANGADO");
-		//comentrio remangado
-		//Cambio en la nube para el PULL
+		setTitle("MARCO CENTRADO 18 de Febrero 2019 hazme pull, prro!");
 	}
 }
