@@ -54,6 +54,8 @@ class PanelBotones extends JPanel{
 	
 	private class ColorFondo implements ActionListener{
 		
+		private Color colorDeFondo;
+		
 		public ColorFondo(Color c) {//constructor
 			
 			colorDeFondo=c;
@@ -65,7 +67,7 @@ class PanelBotones extends JPanel{
 			setBackground(colorDeFondo);
 		}
 		
-		private Color colorDeFondo;
+		
 	}
 
 }
